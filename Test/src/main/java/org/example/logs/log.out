@@ -1,0 +1,109 @@
+2024-03-12 10:03:105 INFO  ManageDriver :28 - Launching Chrome Browser
+2024-03-12 10:03:771 INFO  Homepage :67 - clicking on Accept[[ChromeDriver: chrome on windows (21f857d5583e3055ef9696547d5c0068)] -> xpath: //*[@id="onetrust-accept-btn-handler"]]
+2024-03-12 10:03:402 INFO  Homepage :46 - Clicking Manufacturing Industries[[ChromeDriver: chrome on windows (21f857d5583e3055ef9696547d5c0068)] -> xpath: //div[@class='header__navigation']/ul[1]/li[2]/a]
+2024-03-12 10:03:104 INFO  Homepage :51 - clicking industrialManufacturing[[ChromeDriver: chrome on windows (21f857d5583e3055ef9696547d5c0068)] -> css selector: .subnavigation__link[href='/en-gb/industries/industrial-manufacturing']]
+2024-03-12 10:03:646 INFO  Homepage :62 - Verifying Text[[ChromeDriver: chrome on windows (21f857d5583e3055ef9696547d5c0068)] -> xpath: //main[@id='main-content']/div[1]/div[1]/div[1]/div/div/h1]
+2024-03-12 10:03:697 INFO  Homepage :55 - Print list[[[ChromeDriver: chrome on windows (21f857d5583e3055ef9696547d5c0068)] -> xpath: //ul[@class='InPageNavigation_inPageNav__list__4vBtC']]]
+2024-03-12 10:03:363 INFO  ManageDriver :28 - Launching Chrome Browser
+2024-03-12 10:03:732 INFO  Homepage :67 - clicking on Accept[[ChromeDriver: chrome on windows (dd3666e2c76dc3c879dbab840d4e184d)] -> xpath: //*[@id="onetrust-accept-btn-handler"]]
+2024-03-12 10:03:581 INFO  Homepage :73 - clicking on ContactUs[[ChromeDriver: chrome on windows (dd3666e2c76dc3c879dbab840d4e184d)] -> xpath: //*[@id="__next"]/header/div/nav/div/div[1]/div/a[2]]
+2024-03-12 10:03:609 INFO  Homepage :42 - Enter BusinessEmailAddressxyz@gmail.com
+2024-03-12 10:03:380 INFO  Homepage :46 - Enter FirstNamejames
+2024-03-12 10:03:738 INFO  Homepage :51 - Enter LastName
+2024-03-12 10:03:915 INFO  Homepage :55 - Enter PhoneNumber
+2024-03-12 10:03:70 INFO  Homepage :59 - Enter CompanyName
+2024-03-12 10:03:292 INFO  Homepage :63 - Select Country
+2024-03-12 10:03:431 INFO  Homepage :67 - Select Industry
+2024-03-12 10:03:603 INFO  Homepage :71 - click submit
+2024-03-12 10:03:143 INFO  ManageDriver :28 - Launching Chrome Browser
+2024-03-12 10:03:614 INFO  Homepage :67 - clicking on Accept[[ChromeDriver: chrome on windows (696a1d5f670d05fb930082858bb3f904)] -> xpath: //*[@id="onetrust-accept-btn-handler"]]
+2024-03-12 10:03:225 INFO  Homepage :73 - clicking on ContactUs[[ChromeDriver: chrome on windows (696a1d5f670d05fb930082858bb3f904)] -> xpath: //*[@id="__next"]/header/div/nav/div/div[1]/div/a[2]]
+2024-03-12 10:03:250 INFO  Homepage :42 - Enter BusinessEmailAddresssse@gmail.com
+2024-03-12 10:03:645 INFO  Homepage :46 - Enter FirstNameoliver
+2024-03-12 10:03:60 INFO  Homepage :51 - Enter LastName
+2024-03-12 10:03:235 INFO  Homepage :55 - Enter PhoneNumber
+2024-03-12 10:03:333 INFO  Homepage :59 - Enter CompanyName
+2024-03-12 10:03:488 INFO  Homepage :63 - Select Country
+2024-03-12 10:03:631 INFO  Homepage :67 - Select Industry
+2024-03-12 10:03:758 INFO  Homepage :71 - click submit
+2024-04-18 17:04:894 INFO  ManageDriver :28 - Launching Chrome Browser
+2024-04-18 17:04:377 INFO  Homepage :67 - clicking on Accept[[ChromeDriver: chrome on windows (27eb65c8578c2b131e839b2d60d5e17a)] -> xpath: //*[@id="onetrust-accept-btn-handler"]]
+2024-04-18 17:04:451 INFO  Homepage :73 - clicking on ContactUs[[ChromeDriver: chrome on windows (27eb65c8578c2b131e839b2d60d5e17a)] -> xpath: //*[@id="__next"]/header/div/nav/div/div[1]/div/a[2]]
+2024-04-18 17:04:462 INFO  Homepage :42 - Enter BusinessEmailAddressxyz@gmail.com
+2024-04-18 17:04:153 INFO  Homepage :46 - Enter FirstNamejames
+2024-04-18 17:04:484 INFO  Homepage :51 - Enter LastName
+2024-04-18 17:04:674 INFO  Homepage :55 - Enter PhoneNumber
+2024-04-18 17:04:817 INFO  Homepage :59 - Enter CompanyName
+2024-04-18 17:04:988 INFO  Homepage :63 - Select Country
+2024-04-18 17:04:172 INFO  Homepage :67 - Select Industry
+2024-04-18 17:04:371 INFO  Homepage :71 - click submit
+2024-04-18 17:04:757 INFO  ManageDriver :28 - Launching Chrome Browser
+2024-04-18 17:04:161 INFO  Homepage :67 - clicking on Accept[[ChromeDriver: chrome on windows (760ead0873cbd578e25f4a1b9fb06248)] -> xpath: //*[@id="onetrust-accept-btn-handler"]]
+2024-04-18 17:04:786 INFO  Homepage :73 - clicking on ContactUs[[ChromeDriver: chrome on windows (760ead0873cbd578e25f4a1b9fb06248)] -> xpath: //*[@id="__next"]/header/div/nav/div/div[1]/div/a[2]]
+2024-04-18 17:04:800 INFO  Homepage :42 - Enter BusinessEmailAddresssse@gmail.com
+2024-04-18 17:04:218 INFO  Homepage :46 - Enter FirstNameoliver
+2024-04-18 17:04:571 INFO  Homepage :51 - Enter LastName
+2024-04-18 17:04:715 INFO  Homepage :55 - Enter PhoneNumber
+2024-04-18 17:04:818 INFO  Homepage :59 - Enter CompanyName
+2024-04-18 17:04:986 INFO  Homepage :63 - Select Country
+2024-04-18 17:04:188 INFO  Homepage :67 - Select Industry
+2024-04-18 17:04:362 INFO  Homepage :71 - click submit
+2024-04-18 17:04:33 INFO  ManageDriver :28 - Launching Chrome Browser
+2024-04-18 17:04:135 INFO  Homepage :67 - clicking on Accept[[ChromeDriver: chrome on windows (b8f0fa94ae2d3983448443af5b054cfb)] -> xpath: //*[@id="onetrust-accept-btn-handler"]]
+2024-04-18 17:04:265 INFO  Homepage :46 - Clicking Manufacturing Industries[[ChromeDriver: chrome on windows (b8f0fa94ae2d3983448443af5b054cfb)] -> xpath: //div[@class='header__navigation']/ul[1]/li[2]/a]
+2024-04-18 17:04:907 INFO  Homepage :51 - clicking industrialManufacturing[[ChromeDriver: chrome on windows (b8f0fa94ae2d3983448443af5b054cfb)] -> css selector: .subnavigation__link[href='/en-gb/industries/industrial-manufacturing']]
+2024-04-18 17:04:200 INFO  Homepage :62 - Verifying Text[[ChromeDriver: chrome on windows (b8f0fa94ae2d3983448443af5b054cfb)] -> xpath: //main[@id='main-content']/div[1]/div[1]/div[1]/div/div/h1]
+2024-04-18 17:04:251 INFO  Homepage :55 - Print list[[[ChromeDriver: chrome on windows (b8f0fa94ae2d3983448443af5b054cfb)] -> xpath: //ul[@class='InPageNavigation_inPageNav__list__4vBtC']]]
+2024-04-18 17:04:503 INFO  ManageDriver :28 - Launching Chrome Browser
+2024-04-18 17:04:266 INFO  Homepage :67 - clicking on Accept[[ChromeDriver: chrome on windows (a5623d6d6fe44ac88d4157c080e8809c)] -> xpath: //*[@id="onetrust-accept-btn-handler"]]
+2024-04-18 17:04:258 INFO  Homepage :46 - Clicking Manufacturing Industries[[ChromeDriver: chrome on windows (a5623d6d6fe44ac88d4157c080e8809c)] -> xpath: //div[@class='header__navigation']/ul[1]/li[2]/a]
+2024-04-18 17:04:923 INFO  Homepage :51 - clicking industrialManufacturing[[ChromeDriver: chrome on windows (a5623d6d6fe44ac88d4157c080e8809c)] -> css selector: .subnavigation__link[href='/en-gb/industries/industrial-manufacturing']]
+2024-04-18 17:04:729 INFO  Homepage :62 - Verifying Text[[ChromeDriver: chrome on windows (a5623d6d6fe44ac88d4157c080e8809c)] -> xpath: //main[@id='main-content']/div[1]/div[1]/div[1]/div/div/h1]
+2024-04-18 17:04:815 INFO  Homepage :55 - Print list[[[ChromeDriver: chrome on windows (a5623d6d6fe44ac88d4157c080e8809c)] -> xpath: //ul[@class='InPageNavigation_inPageNav__list__4vBtC']]]
+2024-04-18 17:04:88 INFO  ManageDriver :28 - Launching Chrome Browser
+2024-04-18 17:04:95 INFO  Homepage :67 - clicking on Accept[[ChromeDriver: chrome on windows (69551694bbbb785c43566cb79f11cf80)] -> xpath: //*[@id="onetrust-accept-btn-handler"]]
+2024-04-18 17:04:438 INFO  Homepage :73 - clicking on ContactUs[[ChromeDriver: chrome on windows (69551694bbbb785c43566cb79f11cf80)] -> xpath: //*[@id="__next"]/header/div/nav/div/div[1]/div/a[2]]
+2024-04-18 17:04:255 INFO  ManageDriver :28 - Launching Chrome Browser
+2024-04-18 17:04:797 INFO  Homepage :67 - clicking on Accept[[ChromeDriver: chrome on windows (9890c9739fd1ed43897f28a14f021dbb)] -> xpath: //*[@id="onetrust-accept-btn-handler"]]
+2024-04-18 17:04:54 INFO  Homepage :73 - clicking on ContactUs[[ChromeDriver: chrome on windows (9890c9739fd1ed43897f28a14f021dbb)] -> xpath: //*[@id="__next"]/header/div/nav/div/div[1]/div/a[2]]
+2024-04-18 17:04:599 INFO  Homepage :71 - click submit
+2024-04-18 17:04:954 INFO  ManageDriver :28 - Launching Chrome Browser
+2024-04-18 17:04:468 INFO  Homepage :67 - clicking on Accept[[ChromeDriver: chrome on windows (116a98b4869a42237d646c1cab3f9f69)] -> xpath: //*[@id="onetrust-accept-btn-handler"]]
+2024-04-18 17:04:880 INFO  Homepage :73 - clicking on ContactUs[[ChromeDriver: chrome on windows (116a98b4869a42237d646c1cab3f9f69)] -> xpath: //*[@id="__next"]/header/div/nav/div/div[1]/div/a[2]]
+2024-04-18 17:04:933 INFO  Homepage :42 - Enter BusinessEmailAddressxyz@gmail.com
+2024-04-18 17:04:36 INFO  Homepage :46 - Enter FirstNamejames
+2024-04-18 17:04:231 INFO  Homepage :51 - Enter LastName
+2024-04-18 17:04:465 INFO  Homepage :55 - Enter PhoneNumber
+2024-04-18 17:04:569 INFO  Homepage :59 - Enter CompanyName
+2024-04-18 17:04:712 INFO  Homepage :63 - Select Country
+2024-04-18 17:04:842 INFO  Homepage :67 - Select Industry
+2024-04-18 17:04:39 INFO  Homepage :71 - click submit
+2024-04-18 17:04:271 INFO  ManageDriver :28 - Launching Chrome Browser
+2024-04-18 17:04:630 INFO  Homepage :67 - clicking on Accept[[ChromeDriver: chrome on windows (ba355723b4f164845ed6cdae9b55850f)] -> xpath: //*[@id="onetrust-accept-btn-handler"]]
+2024-04-18 17:04:873 INFO  Homepage :73 - clicking on ContactUs[[ChromeDriver: chrome on windows (ba355723b4f164845ed6cdae9b55850f)] -> xpath: //*[@id="__next"]/header/div/nav/div/div[1]/div/a[2]]
+2024-04-18 17:04:889 INFO  Homepage :42 - Enter BusinessEmailAddresssse@gmail.com
+2024-04-18 17:04:225 INFO  Homepage :46 - Enter FirstNameoliver
+2024-04-18 17:04:431 INFO  Homepage :51 - Enter LastName
+2024-04-18 17:04:553 INFO  Homepage :55 - Enter PhoneNumber
+2024-04-18 17:04:672 INFO  Homepage :59 - Enter CompanyName
+2024-04-18 17:04:802 INFO  Homepage :63 - Select Country
+2024-04-18 17:04:921 INFO  Homepage :67 - Select Industry
+2024-04-18 17:04:22 INFO  Homepage :71 - click submit
+2024-04-18 17:04:144 INFO  ManageDriver :28 - Launching Chrome Browser
+2024-04-18 17:04:663 INFO  Homepage :67 - clicking on Accept[[ChromeDriver: chrome on windows (b01d256139d7cadda2e21e30debd0a40)] -> xpath: //*[@id="onetrust-accept-btn-handler"]]
+2024-04-18 17:04:748 INFO  Homepage :46 - Clicking Manufacturing Industries[[ChromeDriver: chrome on windows (b01d256139d7cadda2e21e30debd0a40)] -> xpath: //div[@class='header__navigation']/ul[1]/li[2]/a]
+2024-04-18 17:04:790 INFO  Homepage :62 - Verifying Text[[ChromeDriver: chrome on windows (b01d256139d7cadda2e21e30debd0a40)] -> xpath: //main[@id='main-content']/div[1]/div[1]/div[1]/div/div/h1]
+2024-04-18 17:04:118 INFO  ManageDriver :28 - Launching Chrome Browser
+2024-04-18 17:04:253 INFO  Homepage :67 - clicking on Accept[[ChromeDriver: chrome on windows (e666c4bddefa5876bbd56bf8805079f7)] -> xpath: //*[@id="onetrust-accept-btn-handler"]]
+2024-04-18 17:04:851 INFO  Homepage :46 - Clicking Manufacturing Industries[[ChromeDriver: chrome on windows (e666c4bddefa5876bbd56bf8805079f7)] -> xpath: //div[@class='header__navigation']/ul[1]/li[2]/a]
+2024-04-18 17:04:88 INFO  Homepage :62 - Verifying Text[[ChromeDriver: chrome on windows (e666c4bddefa5876bbd56bf8805079f7)] -> xpath: //main[@id='main-content']/div[1]/div[1]/div[1]/div/div/h1]
+2024-04-18 20:04:192 INFO  ManageDriver :28 - Launching Chrome Browser
+2024-04-18 20:04:645 INFO  Homepage :67 - clicking on Accept[[ChromeDriver: chrome on windows (7693f5a41325be67bb54136c76ac7ab3)] -> xpath: //*[@id="onetrust-accept-btn-handler"]]
+2024-04-18 20:04:89 INFO  Homepage :46 - Clicking Manufacturing Industries[[ChromeDriver: chrome on windows (7693f5a41325be67bb54136c76ac7ab3)] -> xpath: //div[@class='header__navigation']/ul[1]/li[2]/a]
+2024-04-18 20:04:566 INFO  Homepage :51 - clicking industrialManufacturing[[ChromeDriver: chrome on windows (7693f5a41325be67bb54136c76ac7ab3)] -> css selector: .subnavigation__link[href='/en-gb/industries/industrial-manufacturing']]
+2024-04-18 21:04:58 INFO  ManageDriver :28 - Launching Chrome Browser
+2024-04-18 21:04:267 INFO  Homepage :69 - clicking on Accept[[ChromeDriver: chrome on windows (742e9c52f67d6e4e582c2c7e2269d723)] -> xpath: //*[@id="onetrust-accept-btn-handler"]]
+2024-04-18 21:04:686 INFO  Homepage :48 - Clicking Manufacturing Industries[[ChromeDriver: chrome on windows (742e9c52f67d6e4e582c2c7e2269d723)] -> xpath: //div[@class='header__navigation']/ul[1]/li[2]/a]
+2024-04-18 21:04:532 INFO  Homepage :53 - clicking industrialManufacturing[[ChromeDriver: chrome on windows (742e9c52f67d6e4e582c2c7e2269d723)] -> css selector: .subnavigation__link[href='/en-gb/industries/industrial-manufacturing']]
+2024-04-18 21:04:459 INFO  Homepage :64 - Verifying Text[[ChromeDriver: chrome on windows (742e9c52f67d6e4e582c2c7e2269d723)] -> xpath: //main[@id='main-content']/div[1]/div[1]/div[1]/div/div/h1]
+2024-04-18 21:04:793 INFO  Homepage :57 - Print list[[[ChromeDriver: chrome on windows (742e9c52f67d6e4e582c2c7e2269d723)] -> xpath: //ul[@class='InPageNavigation_inPageNav__list__4vBtC']]]
